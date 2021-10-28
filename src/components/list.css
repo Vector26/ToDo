@@ -1,0 +1,5 @@
+.list{
+    width:70vw;
+    min-height:calc(30vh - 2em);
+    margin-top: 2em;
+}
